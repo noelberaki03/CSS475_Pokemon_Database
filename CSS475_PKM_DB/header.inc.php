@@ -12,9 +12,6 @@
     <a href="list_trainers.php">List Trainers</a>
     <a href="list_items.php">List Items</a>
     <a href="list_pokemon.php">List Pokemon</a>
-    <a href="list_pokemon_moves.php">List Pokemon Moves</a>
-    <a href="list_pokemon_egg_groups.php">List Pokemon Egg Groups</a>
-    <a href="list_pokemon_types.php">List Pokemon Types</a>
 </div></div>
 <h1>CSS 475 Pokemon Database</h1>
 
